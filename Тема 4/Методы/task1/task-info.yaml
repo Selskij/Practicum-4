@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 42
-    length: 44
+    length: 186
     placeholder_text: '...  # TODO найти список делителей числа number'
     initial_state:
       length: 47
